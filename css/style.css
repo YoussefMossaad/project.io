@@ -11,3 +11,12 @@ table {
   width: 600px;
   height: 300px;
 }
+body {
+  background-image: url(../img/Motorola_logo26.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.display {
+  text-align: center;
+  color: white;
+}
